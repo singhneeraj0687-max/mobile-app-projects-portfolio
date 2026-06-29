@@ -1,213 +1,69 @@
-# Mobile App Projects Portfolio
+# Hi, I'm Neeraj Gandharva 👋
+
+Senior Flutter & Android Developer with 9+ years of experience building scalable mobile applications.
 
 ## About Me
 
-Senior Flutter & Android Developer with 9+ years of experience building scalable mobile applications for FinTech, E-commerce, Astrology, Coaching, Job Portal and Service-based platforms.
+- 9.6 Years Mobile Development Experience  
+- 5.6+ Years in Flutter Development  
+- 4 Years in Native Android Development  
+- Experience in FinTech, E-commerce, Astrology, Job Portal and Service Apps  
+- Open to Senior Flutter Developer Opportunities  
 
 ---
 
-## Professional Experience
+## Tech Stack
 
-### HyperBeans Technologies Pvt. Ltd. | Senior Flutter Developer / Senior Android Developer  
-Indore | Feb 2019 – Jun 2026  
-
-- Architected and delivered 10+ Flutter and Android applications  
-- Worked with MVVM and Clean Architecture  
-- Integrated Firebase (Firestore, Realtime Database, FCM, Crashlytics, Analytics)  
-- Integrated Payment Gateways (Razorpay, Stripe, PayPal, PhonePe, Easebuzz)  
-- Implemented REST APIs and OneSignal Notifications  
-- Established CI/CD pipeline automation for build and deployment  
-- Improved app performance and optimized user experience  
-- Worked with Agile/Scrum methodology and GitHub  
+**Mobile:** Flutter, Android  
+**Languages:** Dart, Java, Kotlin  
+**State Management:** Provider, GetX, BLoC  
+**Architecture:** MVVM, MVC, Clean Architecture  
+**Backend:** REST APIs, Firebase, JSON  
+**Database:** SQLite, Room, Firestore  
+**Payments:** Razorpay, Stripe, PayPal, PhonePe, Easebuzz  
+**Notifications:** Firebase FCM, OneSignal  
+**Tools:** Git, GitHub, CI/CD, Android Studio  
 
 ---
 
-### GeeCom India Services Pvt. Ltd. | Senior Android Developer  
-Indore | Jun 2018 – Feb 2019  
+## Featured Projects
 
-- Developed Android applications with REST API integration  
-- Worked with SQLite and Room Database  
-- Developed E-commerce platform focused on farming sector  
-- Improved app performance and local database handling  
+### LinkConnect  
+Job Portal App with Job Search, Apply, Social Login and Push Notifications  
 
----
+### Trilok  
+Astrology Platform with Consultation, Wallet Recharge, Kundali and Calling  
 
-### Maestros Infotech Pvt. Ltd. | Senior Android Developer  
-Bhopal | Apr 2017 – Apr 2018  
+### DiamondXE  
+Diamond Exchange Platform with 800,000+ Inventory and Secure Transactions  
 
-- Developed Android applications for multiple business use cases  
-- Worked on UI development and backend integration  
-- Improved application performance and bug fixing  
+### ForGrowthCoaching  
+Coaching Platform with Booking, Goal Tracking and Activity Monitoring  
 
----
+### TipMe Global  
+Digital Wallet and International Money Transfer Application  
 
-### C-DAC Pune | Software Engineer  
-Pune | Jul 2011 – Aug 2014  
-
-- Worked on software engineering and research based development projects  
-- Contributed in application development and technical implementation  
+### CTLF Driver App UK  
+Driver Booking App with Maps, SMS and Calling Integration  
 
 ---
 
-## Key Projects
+## Experience
 
-### LinkConnect (Flutter | Clean Architecture)
+**HyperBeans Technologies Pvt. Ltd.**  
+Senior Flutter / Android Developer (2019 – 2026)
 
-Job portal platform for recruiters and job seekers.
+**GeeCom India Services Pvt. Ltd.**  
+Senior Android Developer (2018 – 2019)
 
-Features:
-- Job Posting  
-- Job Search and Apply  
-- OneSignal Push Notifications  
-- Google Login  
-- Facebook Login  
-- Apple Sign In  
+**Maestros Infotech Pvt. Ltd.**  
+Senior Android Developer (2017 – 2018)
 
----
-
-### Trilok (Flutter | Clean Architecture)
-
-Astrology platform with advanced consultation features.
-
-Features:
-- Astrologer Consultation  
-- Wallet Recharge  
-- Kundali Generation  
-- Matchmaking  
-- In-App Calling  
-- Payment Integration  
-
----
-
-### DiamondXE (Flutter | Clean Architecture)
-
-Online diamond exchange platform.
-
-Features:
-- 800,000+ Diamonds Listing  
-- Secure Transactions  
-- Real-time Price Updates  
-- Transparent Pricing System  
-
----
-
-### ForGrowthCoaching (Flutter | Clean Architecture)
-
-Online coaching and personal development platform.
-
-Features:
-- Book Purchase  
-- Online Session Booking  
-- Goal Setting  
-- Activity Tracking  
-- Push Notifications  
-
----
-
-### Visitor App (Flutter | MVVM)
-
-Location based farm discovery application.
-
-Features:
-- Nearby Farm Search  
-- Google Maps Integration  
-- Route Drawing using Polyline  
-- Location Tracking  
-
----
-
-### Crickul (Flutter | MVVM)
-
-Cricket learning and coaching platform.
-
-Features:
-- Video Creation  
-- Coach Interaction  
-- Cricket Learning Modules  
-
----
-
-### TipMe Global (Android | MVVM)
-
-Digital wallet and international money transfer application.
-
-Features:
-- Wallet Management  
-- International Money Transfer  
-- Secure Payment Processing  
-
----
-
-### Wing.Studio (Android | MVVM)
-
-Online portfolio platform.
-
-Features:
-- Real-time Skill Showcase  
-- User Portfolio Management  
-- Media Upload  
-
----
-
-### Celedom (Android | MVVM)
-
-Event planning and service discovery platform.
-
-Features:
-- Event Booking  
-- Service Discovery  
-- Vendor Management  
-
----
-
-### CTLF Driver App UK (Android | MVC)
-
-Driver booking and transport management system.
-
-Features:
-- Driver Booking Management  
-- Google Maps Integration  
-- SMS Integration  
-- In-App Calling  
-
----
-
-## Technical Skills
-
-- Flutter  
-- Android Development  
-- Dart  
-- Java  
-- Kotlin  
-- Provider  
-- GetX  
-- BLoC  
-- MVVM  
-- MVC  
-- Clean Architecture  
-- REST APIs  
-- Firebase  
-- Firestore  
-- Realtime Database  
-- FCM Push Notifications  
-- Crashlytics  
-- Analytics  
-- SQLite  
-- Room Database  
-- Razorpay  
-- Stripe  
-- PayPal  
-- PhonePe SDK  
-- Easebuzz  
-- OneSignal  
-- Git  
-- GitHub  
-- CI/CD  
-- Android Studio  
-- Agile / Scrum  
+**C-DAC Pune**  
+Software Engineer (2011 – 2014)
 
 ---
 
 ## Open To Work
 
-Currently looking for Senior Flutter & Android Developer opportunities and open to challenging mobile development roles.
+Looking for Senior Flutter & Android Developer opportunities 🚀

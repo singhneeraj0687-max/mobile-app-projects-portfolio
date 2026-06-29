@@ -210,4 +210,4 @@ Features:
 
 ## Open To Work
 
-Currently looking for Senior Flutter Developer opportunities and open to challenging mobile development roles.
+Currently looking for Senior Flutter & Android Developer opportunities and open to challenging mobile development roles.
